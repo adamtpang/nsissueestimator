@@ -1,0 +1,15 @@
+{
+  "buildCommand": "next build",
+  "devCommand": "next dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "functions": {
+    "pages/api/**/*.js": {
+      "maxDuration": 300
+    }
+  },
+  "env": {
+    "GITHUB_TOKEN": "@github_token",
+    "ANTHROPIC_API_KEY": "@anthropic_api_key"
+  }
+}
