@@ -1,10 +1,12 @@
-# GitHub Issue Cost Estimator
+# 💰 GitHub Issue Cost Estimator
 
-An AI-powered tool that analyzes GitHub repository issues and provides cost estimates based on complexity. Built with Next.js, Claude AI, and the GitHub API.
+An AI-powered tool that analyzes GitHub repository issues and provides cost estimates based on complexity. Turn your GitHub issues into budgeted tasks instantly.
 
-## Live Demo
+## 🚀 Live Demo
 
-🚀 **Hosted URL**: [Your Vercel URL will appear here after deployment]
+**Hosted URL**: https://nsissueestimator.vercel.app
+
+> Built by [adamtomas.fun](https://adamtomas.fun) at [ns.com](https://ns.com) • Powered by Claude AI, Next.js & Vercel
 
 ## Features
 
